@@ -148,7 +148,7 @@ const SITE_CONFIG = {
       text: "B/5, Patriot Complex, Near Inox, Race Course, Ellora Park, Vadodara 390021 Gujarat.",
     },
     { icon: "fas fa-phone", text: "+91 760 000 0483" },
-    { icon: "fas fa-envelope", text: "info@rkenterprise.com" },
+    { icon: "fas fa-envelope", text: "hello@rkenterprise.com" },
   ],
 };
 
